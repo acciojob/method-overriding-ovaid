@@ -6,7 +6,7 @@ public class Main {
 
 
         public String meth() {
-            return "Method is overridden in Extendend class B";
+            return "Invoking method from class A";
         }
     }
 
